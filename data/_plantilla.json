@@ -1,0 +1,15 @@
+{
+  "_instrucciones": "Copia este fichero como data/<tu-equipo>.json. Cada clave es una colección (en inglés, en plural) y su valor, una lista de elementos con un id único.",
+  "items": [
+    {
+      "id": 1,
+      "title": "Ejemplo",
+      "price_eur": 12.5,
+      "starts_at": "2026-12-01T18:00:00",
+      "tags": [
+        "ejemplo"
+      ],
+      "image_url": "https://picsum.photos/seed/ejemplo/600/400"
+    }
+  ]
+}

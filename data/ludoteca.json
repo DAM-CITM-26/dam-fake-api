@@ -1,0 +1,328 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Faros de niebla",
+      "author": "Nuria Valls",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "duration_min": 45,
+      "publisher": {
+        "name": "Estudio Nórdico",
+        "country": "Noruega"
+      },
+      "rating": 5,
+      "category": "Estrategia",
+      "description": "Guía los barcos entre la niebla encendiendo faros antes de que se agote el aceite.",
+      "is_new": false
+    },
+    {
+      "id": 2,
+      "title": "Huerto vertical",
+      "author": "Pau Ferrer",
+      "players": {
+        "min": 1,
+        "max": 5
+      },
+      "duration_min": 30,
+      "publisher": {
+        "name": "Semilla Juegos",
+        "country": "España"
+      },
+      "rating": 3,
+      "category": "Familiar",
+      "description": "Planta, riega y cosecha en un huerto de cinco pisos que crece hacia arriba.",
+      "is_new": false
+    },
+    {
+      "id": 3,
+      "title": "Volcán dormido",
+      "author": "Irene Soler",
+      "players": {
+        "min": 3,
+        "max": 6
+      },
+      "duration_min": 20,
+      "publisher": {
+        "name": "Lava Games",
+        "country": "Islandia"
+      },
+      "rating": 4,
+      "category": "Party",
+      "description": "Saca piedras del volcán sin despertarlo: el último que lo haga temblar pierde.",
+      "is_new": true
+    },
+    {
+      "id": 4,
+      "title": "Biblioteca sumergida",
+      "author": "Nuria Valls",
+      "players": {
+        "min": 2,
+        "max": 2
+      },
+      "duration_min": 60,
+      "publisher": {
+        "name": "Estudio Nórdico",
+        "country": "Noruega"
+      },
+      "rating": 4,
+      "category": "Estrategia",
+      "description": "Dos exploradores rescatan libros de una biblioteca que se inunda turno a turno.",
+      "is_new": false
+    },
+    {
+      "id": 5,
+      "title": "Noche de enigmas",
+      "author": "Marta Ruiz",
+      "players": {
+        "min": 3,
+        "max": 8
+      },
+      "duration_min": 90,
+      "publisher": {
+        "name": "Cuervo Ediciones",
+        "country": "México"
+      },
+      "rating": 5,
+      "category": "Misterio",
+      "description": "Resuelve en equipo los acertijos de una mansión antes de que amanezca.",
+      "is_new": false
+    },
+    {
+      "id": 6,
+      "title": "Tren de medianoche",
+      "author": "Joan Bosch",
+      "players": {
+        "min": 2,
+        "max": 5
+      },
+      "duration_min": 50,
+      "publisher": {
+        "name": "Vía Estrecha",
+        "country": "España"
+      },
+      "rating": 4,
+      "category": "Estrategia",
+      "description": "Construye rutas de tren nocturno y reparte a los pasajeros dormidos.",
+      "is_new": true
+    },
+    {
+      "id": 7,
+      "title": "Mercado de especias",
+      "author": "Aisha Benali",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "duration_min": 40,
+      "publisher": {
+        "name": "Caravana",
+        "country": "Marruecos"
+      },
+      "rating": 4,
+      "category": "Familiar",
+      "description": "Compra barato, vende caro y llena tu tienda de las especias más raras.",
+      "is_new": false
+    },
+    {
+      "id": 8,
+      "title": "Pingüinos en fuga",
+      "author": "Leo Martín",
+      "players": {
+        "min": 2,
+        "max": 6
+      },
+      "duration_min": 15,
+      "publisher": {
+        "name": "Hielo Rápido",
+        "country": "Chile"
+      },
+      "rating": 3,
+      "category": "Party",
+      "description": "Saltan los pingüinos de témpano en témpano: que no se te escape ninguno.",
+      "is_new": true
+    },
+    {
+      "id": 9,
+      "title": "Archipiélago",
+      "author": "Clara Vidal",
+      "players": {
+        "min": 1,
+        "max": 4
+      },
+      "duration_min": 75,
+      "publisher": {
+        "name": "Brújula",
+        "country": "Portugal"
+      },
+      "rating": 5,
+      "category": "Estrategia",
+      "description": "Explora islas, traza mapas y funda colonias en un archipiélago por descubrir.",
+      "is_new": false
+    },
+    {
+      "id": 10,
+      "title": "Duendes del bosque",
+      "author": "Pau Ferrer",
+      "players": {
+        "min": 2,
+        "max": 5
+      },
+      "duration_min": 25,
+      "publisher": {
+        "name": "Semilla Juegos",
+        "country": "España"
+      },
+      "rating": 3,
+      "category": "Familiar",
+      "description": "Esconde a tus duendes entre los árboles y adivina dónde están los demás.",
+      "is_new": false
+    },
+    {
+      "id": 11,
+      "title": "Código de colores",
+      "author": "Irene Soler",
+      "players": {
+        "min": 2,
+        "max": 8
+      },
+      "duration_min": 10,
+      "publisher": {
+        "name": "Lava Games",
+        "country": "Islandia"
+      },
+      "rating": 4,
+      "category": "Party",
+      "description": "Una sola pista por turno para que tu equipo encuentre el color secreto.",
+      "is_new": true
+    },
+    {
+      "id": 12,
+      "title": "Ciudad de cristal",
+      "author": "Hugo Lin",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "duration_min": 60,
+      "publisher": {
+        "name": "Prisma",
+        "country": "Taiwán"
+      },
+      "rating": 4,
+      "category": "Estrategia",
+      "description": "Levanta torres de cristal sin que la luz del vecino ciegue las tuyas.",
+      "is_new": false
+    },
+    {
+      "id": 13,
+      "title": "Expedición polar",
+      "author": "Marta Ruiz",
+      "players": {
+        "min": 1,
+        "max": 4
+      },
+      "duration_min": 90,
+      "publisher": {
+        "name": "Cuervo Ediciones",
+        "country": "México"
+      },
+      "rating": 5,
+      "category": "Cooperativo",
+      "description": "Sobrevivid juntos al invierno polar repartiendo víveres y calor.",
+      "is_new": true
+    },
+    {
+      "id": 14,
+      "title": "Abejas y flores",
+      "author": "Clara Vidal",
+      "players": {
+        "min": 1,
+        "max": 5
+      },
+      "duration_min": 30,
+      "publisher": {
+        "name": "Brújula",
+        "country": "Portugal"
+      },
+      "rating": 3,
+      "category": "Familiar",
+      "description": "Poliniza el prado más bonito colocando colmenas en el momento justo.",
+      "is_new": false
+    },
+    {
+      "id": 15,
+      "title": "Detectives de barrio",
+      "author": "Leo Martín",
+      "players": {
+        "min": 2,
+        "max": 6
+      },
+      "duration_min": 45,
+      "publisher": {
+        "name": "Hielo Rápido",
+        "country": "Chile"
+      },
+      "rating": 4,
+      "category": "Misterio",
+      "description": "Sigue las pistas de los vecinos para descubrir quién se llevó el gato.",
+      "is_new": false
+    },
+    {
+      "id": 16,
+      "title": "Faro del fin del mundo",
+      "author": "Nuria Valls",
+      "players": {
+        "min": 1,
+        "max": 1
+      },
+      "duration_min": 35,
+      "publisher": {
+        "name": "Estudio Nórdico",
+        "country": "Noruega"
+      },
+      "rating": 4,
+      "category": "Solitario",
+      "description": "Mantén el faro encendido una semana entera en la isla más lejana.",
+      "is_new": true
+    },
+    {
+      "id": 17,
+      "title": "Torre de dados",
+      "author": "Joan Bosch",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "duration_min": 20,
+      "publisher": {
+        "name": "Vía Estrecha",
+        "country": "España"
+      },
+      "rating": 2,
+      "category": "Party",
+      "description": "Apila dados sin derribar la torre: cada cara que sale cambia las reglas.",
+      "is_new": false
+    },
+    {
+      "id": 18,
+      "title": "Jardín japonés",
+      "author": "Hugo Lin",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "duration_min": 40,
+      "publisher": {
+        "name": "Prisma",
+        "country": "Taiwán"
+      },
+      "rating": 5,
+      "category": "Estrategia",
+      "description": "Diseña un jardín en calma con piedras, agua y musgo en equilibrio.",
+      "is_new": false
+    }
+  ]
+}

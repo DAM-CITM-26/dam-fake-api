@@ -1,0 +1,12 @@
+{
+  "name": "dam-fake-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Servidor de datos de ejemplo para los proyectos de DAM 2026-27, que se comporta como una API real",
+  "scripts": {
+    "dev": "node server.js",
+    "check": "node scripts/validar-datos.js"
+  },
+  "engines": { "node": ">=20" }
+}

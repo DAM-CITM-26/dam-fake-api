@@ -1,0 +1,12 @@
+# Comprueba los datos en cada Pull Request (el PR sale en rojo si hay algún error)
+name: Validar datos
+on: [pull_request]
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run check
