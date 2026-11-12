@@ -9,6 +9,7 @@
         "max": 4
       },
       "duration_min": 45,
+      "cover_color": "#4fc1ff",
       "publisher": {
         "name": "Estudio Nórdico",
         "country": "Noruega"
@@ -27,6 +28,7 @@
         "max": 5
       },
       "duration_min": 30,
+      "cover_color": "#d7ba7d",
       "publisher": {
         "name": "Semilla Juegos",
         "country": "España"
@@ -45,6 +47,7 @@
         "max": 6
       },
       "duration_min": 20,
+      "cover_color": "#89d185",
       "publisher": {
         "name": "Lava Games",
         "country": "Islandia"
@@ -63,6 +66,7 @@
         "max": 2
       },
       "duration_min": 60,
+      "cover_color": "#2E6B57",
       "publisher": {
         "name": "Estudio Nórdico",
         "country": "Noruega"
@@ -81,6 +85,7 @@
         "max": 8
       },
       "duration_min": 90,
+      "cover_color": "#6D5BD0",
       "publisher": {
         "name": "Cuervo Ediciones",
         "country": "México"
@@ -99,6 +104,7 @@
         "max": 5
       },
       "duration_min": 50,
+      "cover_color": "#2E6B57",
       "publisher": {
         "name": "Vía Estrecha",
         "country": "España"
@@ -117,6 +123,7 @@
         "max": 4
       },
       "duration_min": 40,
+      "cover_color": "#C4791F",
       "publisher": {
         "name": "Caravana",
         "country": "Marruecos"
@@ -135,6 +142,7 @@
         "max": 6
       },
       "duration_min": 15,
+      "cover_color": "#B4447A",
       "publisher": {
         "name": "Hielo Rápido",
         "country": "Chile"
@@ -153,6 +161,7 @@
         "max": 4
       },
       "duration_min": 75,
+      "cover_color": "#2E6B57",
       "publisher": {
         "name": "Brújula",
         "country": "Portugal"
@@ -171,6 +180,7 @@
         "max": 5
       },
       "duration_min": 25,
+      "cover_color": "#C4791F",
       "publisher": {
         "name": "Semilla Juegos",
         "country": "España"
@@ -189,6 +199,7 @@
         "max": 8
       },
       "duration_min": 10,
+      "cover_color": "#B4447A",
       "publisher": {
         "name": "Lava Games",
         "country": "Islandia"
@@ -207,6 +218,7 @@
         "max": 4
       },
       "duration_min": 60,
+      "cover_color": "#2E6B57",
       "publisher": {
         "name": "Prisma",
         "country": "Taiwán"
@@ -225,6 +237,7 @@
         "max": 4
       },
       "duration_min": 90,
+      "cover_color": "#3A6EA5",
       "publisher": {
         "name": "Cuervo Ediciones",
         "country": "México"
@@ -243,6 +256,7 @@
         "max": 5
       },
       "duration_min": 30,
+      "cover_color": "#C4791F",
       "publisher": {
         "name": "Brújula",
         "country": "Portugal"
@@ -261,6 +275,7 @@
         "max": 6
       },
       "duration_min": 45,
+      "cover_color": "#6D5BD0",
       "publisher": {
         "name": "Hielo Rápido",
         "country": "Chile"
@@ -279,6 +294,7 @@
         "max": 1
       },
       "duration_min": 35,
+      "cover_color": "#5B6660",
       "publisher": {
         "name": "Estudio Nórdico",
         "country": "Noruega"
@@ -297,6 +313,7 @@
         "max": 4
       },
       "duration_min": 20,
+      "cover_color": "#B4447A",
       "publisher": {
         "name": "Vía Estrecha",
         "country": "España"
@@ -315,6 +332,7 @@
         "max": 4
       },
       "duration_min": 40,
+      "cover_color": "#2E6B57",
       "publisher": {
         "name": "Prisma",
         "country": "Taiwán"
