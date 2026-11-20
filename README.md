@@ -7,7 +7,7 @@ Algunos proyectos no tienen una API pública que encaje con su app: no existe un
 - **Puede fallar**: añadiendo `?fallo=1` a cualquier dirección devuelve un error, para que enseñéis vuestro estado de error.
 - **Es de solo lectura**, como las APIs públicas: lo que el usuario guarda o crea va a vuestro Context y a `localStorage`.
 
-**Dirección:** `https://<dirección-que-os-dará-el-profesor>/api`
+**Dirección:** `https://dam-fake-api.vercel.app/api`
 
 ## Cómo se usa
 
@@ -33,7 +33,7 @@ Todo lo que habla con la API va en un único fichero, `src/data/api.js`. Las pan
 
 ```js
 // src/data/api.js
-const BASE = 'https://<dirección-que-os-dará-el-profesor>/api/3t'
+const BASE = 'https://dam-fake-api.vercel.app/api/3t'
 
 export async function fetchTalleres(texto = '') {
   const respuesta = await fetch(`${BASE}/workshops?q=${encodeURIComponent(texto)}`)
